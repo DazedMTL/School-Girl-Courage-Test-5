@@ -1,449 +1,452 @@
 [
   {
     "No": "0",
-    "me": "Sawasdee ka, ah, um... is this the place for the test of\ncourage? My name is Atchara... no... Atchara Gitti."
+    "me": "Sawasdee ka, ah, um... is this the place for the\ntest of courage? My name is Atchara... no...\nAtchara Gitti."
   },
   {
     "No": "1",
-    "me": "Oh, ohh~ You're the exchange student from Thailand, right?\nSecond-year student Atchara Gitti! Welcome, welcome~"
+    "me": "Oh, ohh~ You're the exchange student from\nThailand, right? Second-year student Atchara\nGitti! Welcome, welcome~"
   },
   {
     "No": "2",
-    "me": "(Hehehe~ A Thai schoolgirl, huh~! Isn't that nice~!? I'm\ngonna plant my DNA in her~!)"
+    "me": "(Hehehe~ A Thai schoolgirl, huh~! Isn't that\nnice~!? I'm gonna plant my DNA in her~!)"
   },
   {
     "No": "3",
-    "me": "You came to Japan with your twin brother, didn't you? Wow~\nYou're so studious and admirable~! Uhehehe!"
+    "me": "You came to Japan with your twin brother, didn't\nyou? Wow~ You're so studious and admirable~!\nUhehehe!"
   },
   {
     "No": "4",
-    "me": "Yes... My brother's name is Anan... umm... I want to work,\nfind employment in safe Japan. So I will do my best!\nEhehe..."
+    "me": "Yes... My brother's name is Anan... umm... I want\nto work, find employment in safe Japan. So I will\ndo my best! Ehehe..."
   },
   {
     "No": "5",
-    "me": "Heh~ Is that so? That's amazing! If you have any trouble,\njust let me know! (She's cute~)"
+    "me": "Heh~ Is that so? That's amazing! If you have any\ntrouble, just let me know! (She's cute~)"
   },
   {
     "No": "6",
-    "me": "That's right~ Do your best in Japan, okay? I'll be cheering\nfor you!"
+    "me": "That's right~ Do your best in Japan, okay? I'll be\ncheering for you!"
   },
   {
     "No": "7",
-    "me": "Japan might seem safe, but... there are many terrible\nJapanese people too, so you should be careful."
+    "me": "Japan might seem safe, but... there are many\nterrible Japanese people too, so you should be\ncareful."
   },
   { "No": "8", "me": "(Thump...)" },
   {
     "No": "9",
-    "me": "I've been to Thailand several times for work... well, for\nfun. It's a really nice place."
+    "me": "I've been to Thailand several times for work...\nwell, for fun. It's a really nice place."
   },
   {
     "No": "10",
-    "me": "Heh! What employment? You'll just end up being used by\ncrappy Japanese people and return home broken. Dream on!"
+    "me": "Heh! What employment? You'll just end up being\nused by crappy Japanese people and return home\nbroken. Dream on!"
   },
   {
     "No": "11",
-    "me": "Oh my, how terrible... That won't happen, Atchara-san.\n(Uhihi~! I totally agree with Mitsukado on this one~!)"
+    "me": "Oh my, how terrible... That won't happen, Atchara-\nsan. (Uhihi~! I totally agree with Mitsukado on\nthis one~!)"
   },
   {
     "No": "12",
-    "me": "I hope your dreams come true, Atchara-san~ But before that,\nplease enjoy tonight's test of courage! Uhehehehehe!"
+    "me": "I hope your dreams come true, Atchara-san~ But\nbefore that, please enjoy tonight's test of\ncourage! Uhehehehehe!"
   },
   { "No": "13", "me": "" },
   {
     "No": "14",
-    "me": "Sawasdee ka, my name is Atchara. I've come for the test of\ncourage. Please take care of me."
+    "me": "Sawasdee ka, my name is Atchara. I've come for the\ntest of courage. Please take care of me."
   },
   {
     "No": "15",
-    "me": "Ah~ You've arrived, Atchara Gitti from Thailand, right~?\n(Uhihihi! My new piece of flesh has arrived~!)"
+    "me": "Ah~ You've arrived, Atchara Gitti from Thailand,\nright~? (Uhihihi! My new piece of flesh has\narrived~!)"
   },
   { "No": "16", "me": "Uuu..." },
   { "No": "17", "me": "Huh? What's wrong!? Are you feeling ill?" },
   {
     "No": "18",
-    "me": "No, no, I'm fine. Just a little stomach trouble... Ehehe..."
+    "me": "No, no, I'm fine. Just a little stomach trouble...\nEhehe..."
   },
   {
     "No": "19",
-    "me": "Looking at you, your skin doesn't seem to be in the best\ncondition... Could it be constipation?... Just kidding~\nSorry, sorry..."
+    "me": "Looking at you, your skin doesn't seem to be in\nthe best condition... Could it be constipation?...\nJust kidding~ Sorry, sorry..."
   },
   {
     "No": "20",
-    "me": "Ha!... Wow, you're right! I have terrible constipation...\nSometimes I don't go for a month, and often feel unwell..."
+    "me": "Ha!... Wow, you're right! I have terrible\nconstipation... Sometimes I don't go for a month,\nand often feel unwell..."
   },
   { "No": "21", "me": "So my brother Anan takes over..." },
   { "No": "22", "me": "Yes!? Anan?... Your brother?..." },
   {
     "No": "23",
-    "me": "Ah—! It's nothing! I'm fine! Totally fine! I will do my\nbest!"
+    "me": "Ah—! It's nothing! I'm fine! Totally fine! I will\ndo my best!"
   },
   {
     "No": "24",
-    "me": "Constipation, huh? That's tough... How about exercise? It\noften helps with the flow."
+    "me": "Constipation, huh? That's tough... How about\nexercise? It often helps with the flow."
   },
   { "No": "25", "me": "Yes, yes..." },
-  { "No": "26", "me": "Ah~ I get it... But a month is... That's too much..." },
+  { "No": "26", "me": "Ah~ I get it... But a month is... That's too\nmuch..." },
   {
     "No": "27",
-    "me": "Oh dear... Poor thing, I often get constipated too, but a\nmonth is just too much..."
+    "me": "Oh dear... Poor thing, I often get constipated\ntoo, but a month is just too much..."
   },
   { "No": "28", "me": "(Hehehe, these girls' bellies are full of poop~)" },
   {
     "No": "29",
-    "me": "Atchara, that sounds bad, really bad~ Are you gonna leak\nhalfway through? Might just happen, right!? Ahahahaha!"
+    "me": "Atchara, that sounds bad, really bad~ Are you\ngonna leak halfway through? Might just happen,\nright!? Ahahahaha!"
   },
   {
     "No": "30",
-    "me": "(Kuhehe~! She's definitely gonna leak a lot~! Molly, you\ntoo! Guhahahaha!)"
+    "me": "(Kuhehe~! She's definitely gonna leak a lot~!\nMolly, you too! Guhahahaha!)"
   },
   {
     "No": "31",
-    "me": "Ah... She seems to be pushing herself... Are you really\nokay~?"
+    "me": "Ah... She seems to be pushing herself... Are you\nreally okay~?"
   },
   {
     "No": "32",
-    "me": "Atchara-san, you don't have to push yourself, okay~ (No way,\nlet her push herself!) Let's do our best in the test of\ncourage~!"
+    "me": "Atchara-san, you don't have to push yourself,\nokay~ (No way, let her push herself!) Let's do our\nbest in the test of courage~!"
   },
   { "No": "33", "me": "" },
   {
     "No": "34",
-    "me": "Buhii~! Diapers really suit you~! It's getting me excited~!\nHaa haa haa!"
+    "me": "Buhii~! Diapers really suit you~! It's getting me\nexcited~! Haa haa haa!"
   },
   {
     "No": "35",
-    "me": "Gulp! Nuhaa~ Such a cute ass! An ass I want to lick all\nover! I want to stick my dick to it~!"
+    "me": "Gulp! Nuhaa~ Such a cute ass! An ass I want to\nlick all over! I want to stick my dick to it~!"
   },
   {
     "No": "36",
-    "me": "Buhii~! Diapers really suit you~! It's getting me excited~!\nHaa haa haa! I can smell the poop~!"
+    "me": "Buhii~! Diapers really suit you~! It's getting me\nexcited~! Haa haa haa! I can smell the poop~!"
   },
   {
     "No": "37",
-    "me": "Gulp! Nuhaa~ Such a cute ass! An ass covered in shit! I want\nto lick it all over~!"
+    "me": "Gulp! Nuhaa~ Such a cute ass! An ass covered in\nshit! I want to lick it all over~!"
   },
   {
     "No": "38",
-    "me": "Ohoho~! Such an amazing piss stain! My dick is about to\nexplode~!"
+    "me": "Ohoho~! Such an amazing piss stain! My dick is\nabout to explode~!"
   },
   {
     "No": "39",
-    "me": "Uhehe~! I want to sniff the smell of panties soaked in pee~!\nMy dick is so hard~!"
+    "me": "Uhehe~! I want to sniff the smell of panties\nsoaked in pee~! My dick is so hard~!"
   },
   {
     "No": "40",
-    "me": "Gulp! Nuhaa~ Such a cute ass! An ass I want to lick all\nover! I want to stick my dick to it~!"
+    "me": "Gulp! Nuhaa~ Such a cute ass! An ass I want to\nlick all over! I want to stick my dick to it~!"
   },
   {
     "No": "41",
-    "me": "Ohoho~! Such an amazing poop stain! My dick is about to\nexplode~!"
+    "me": "Ohoho~! Such an amazing poop stain! My dick is\nabout to explode~!"
   },
   {
     "No": "42",
-    "me": "Uhehe~! I want to sniff the smell of panties covered in\npoop~! Cough! My dick is so hard~!"
+    "me": "Uhehe~! I want to sniff the smell of panties\ncovered in poop~! Cough! My dick is so hard~!"
   },
   {
     "No": "43",
-    "me": "Ohoho~! Such an amazing poop stain! And the pee is terrible\ntoo~! My dick is about to explode~!"
+    "me": "Ohoho~! Such an amazing poop stain! And the pee is\nterrible too~! My dick is about to explode~!"
   },
   {
     "No": "44",
-    "me": "Uhehe~! Panties full of a lot of poop~ I want to sniff it~!\nCough! My dick is so hard~!"
+    "me": "Uhehe~! Panties full of a lot of poop~ I want to\nsniff it~! Cough! My dick is so hard~!"
   },
   {
     "No": "45",
-    "me": "Oh my~ Your diaper is all wet and messy~ Should I suck it\ndry for you~? Guhehehehe!"
+    "me": "Oh my~ Your diaper is all wet and messy~ Should I\nsuck it dry for you~? Guhehehehe!"
   },
   {
     "No": "46",
-    "me": "Oh dear! Oh my~ Your pussy groove is showing! Gyahahahaha!"
+    "me": "Oh dear! Oh my~ Your pussy groove is showing!\nGyahahahaha!"
   },
   {
     "No": "47",
-    "me": "Oh my~ With all that poop, your diaper looks like a mess~\nShould I scoop it out for you~? Guhehehehe!"
+    "me": "Oh my~ With all that poop, your diaper looks like\na mess~ Should I scoop it out for you~?\nGuhehehehe!"
   },
   {
     "No": "48",
-    "me": "Oh my~ Your diaper is all mushy and messy~ Your butt is\ngoing to get all red and sore~! Guhehehehe!"
+    "me": "Oh my~ Your diaper is all mushy and messy~ Your\nbutt is going to get all red and sore~!\nGuhehehehe!"
   },
   {
     "No": "49",
-    "me": "Ihihihi! I wonder if the juice from your cute pussy has\nstuck to my briefs~?"
+    "me": "Ihihihi! I wonder if the juice from your cute\npussy has stuck to my briefs~?"
   },
   {
     "No": "50",
-    "me": "Ihihihi! I wonder if the juice from your cute pussy has\nstuck to my towel~?"
+    "me": "Ihihihi! I wonder if the juice from your cute\npussy has stuck to my towel~?"
   },
   {
     "No": "51",
-    "me": "Ihihihi! Panties soaked with pee~! Sell them to this old\nman~! Guhahahahaha!"
+    "me": "Ihihihi! Panties soaked with pee~! Sell them to\nthis old man~! Guhahahahaha!"
   },
   {
     "No": "52",
-    "me": "Buhehehe~! A Thai girl's shaved pussy~! I want to lick and\nsuck it all over~!"
+    "me": "Buhehehe~! A Thai girl's shaved pussy~! I want to\nlick and suck it all over~!"
   },
   {
     "No": "53",
-    "me": "Ihihihi! I wonder if the juice from your cute pussy has\nstuck to my briefs~?"
+    "me": "Ihihihi! I wonder if the juice from your cute\npussy has stuck to my briefs~?"
   },
   {
     "No": "54",
-    "me": "Ihihihi! I wonder if the juice from your cute pussy has\nstuck to my towel~?"
+    "me": "Ihihihi! I wonder if the juice from your cute\npussy has stuck to my towel~?"
   },
   {
     "No": "55",
-    "me": "Ihihihi! Panties covered in poop~! Sell them to this old\nman~! Guhahahahaha!"
+    "me": "Ihihihi! Panties covered in poop~! Sell them to\nthis old man~! Guhahahahaha!"
   },
   {
     "No": "56",
-    "me": "Buhehehe~! A Thai girl's shaved pussy~! I want to lick and\nsuck it all over~! I'll even lick your ass hole~!"
+    "me": "Buhehehe~! A Thai girl's shaved pussy~! I want to\nlick and suck it all over~! I'll even lick your\nass hole~!"
   },
   {
     "No": "57",
-    "me": "What's going on under that skirt, I wonder~? It's smelling\nquite strong here~! Gyahahahaha!"
+    "me": "What's going on under that skirt, I wonder~? It's\nsmelling quite strong here~! Gyahahahaha!"
   },
   {
     "No": "58",
-    "me": "Ihihihi! I wonder if the juice from your cute pussy has\nstuck to my briefs~?"
+    "me": "Ihihihi! I wonder if the juice from your cute\npussy has stuck to my briefs~?"
   },
   {
     "No": "59",
-    "me": "Ihihihi! Panties covered in shit and piss~! If you're going\nto throw them away, sell them to this old man~!\nGuhahahahaha!"
+    "me": "Ihihihi! Panties covered in shit and piss~! If\nyou're going to throw them away, sell them to this\nold man~! Guhahahahaha!"
   },
   { "No": "60", "me": "" },
   {
     "No": "61",
-    "me": "Buhuhuhi~! Shall we play dress-up with this old man~!?\nGyuhahahaha!"
+    "me": "Buhuhuhi~! Shall we play dress-up with this old\nman~!? Gyuhahahaha!"
   },
   {
     "No": "62",
-    "me": "Buhuhuhi~! Atchan's hairless pussy... was the best~! This\nold man came loads of semen~! Let's play dress-up~!"
+    "me": "Buhuhuhi~! Atchan's hairless pussy... was the\nbest~! This old man came loads of semen~! Let's\nplay dress-up~!"
   },
   {
     "No": "63",
-    "me": "Buhuhuhi~! Atchan's blowjob... was the best~! This old man\ncame loads of semen~! Let's play dress-up~!"
+    "me": "Buhuhuhi~! Atchan's blowjob... was the best~! This\nold man came loads of semen~! Let's play dress-\nup~!"
   },
   {
     "No": "64",
-    "me": "Buhuhuhi~! Atchan's diaper... was the best~! This old man\ncame loads of semen~! Let's play dress-up~!"
+    "me": "Buhuhuhi~! Atchan's diaper... was the best~! This\nold man came loads of semen~! Let's play dress-\nup~!"
   },
   {
     "No": "65",
-    "me": "Buhuhuhi~! Atchan's panties... were the best~! This old man\ncame loads of semen~! Let's play dress-up~!"
+    "me": "Buhuhuhi~! Atchan's panties... were the best~!\nThis old man came loads of semen~! Let's play\ndress-up~!"
   },
   { "No": "66", "me": "" },
   { "No": "67", "me": "Haa haa! Let's take it off a little, shall we~?" },
   {
     "No": "68",
-    "me": "Gulp! Give back my running shirt with the full view of my\nboobs~!"
+    "me": "Gulp! Give back my running shirt with the full\nview of my boobs~!"
   },
   {
     "No": "69",
-    "me": "Gulp! Your nipples are showing through the apron... Let's\ntake it off~!"
+    "me": "Gulp! Your nipples are showing through the\napron... Let's take it off~!"
   },
   {
     "No": "70",
-    "me": "Gulp! It suits you~ The school swimsuit! Let's take it off a\nbit~!"
+    "me": "Gulp! It suits you~ The school swimsuit! Let's\ntake it off a bit~!"
   },
   {
     "No": "71",
-    "me": "Gulp! Let's remove this decorative cardboard! Don't need it,\ndon't need it!"
+    "me": "Gulp! Let's remove this decorative cardboard!\nDon't need it, don't need it!"
   },
   {
     "No": "72",
-    "me": "Gulp! Let's remove this flimsy newspaper! Don't need it,\ndon't need it!"
+    "me": "Gulp! Let's remove this flimsy newspaper! Don't\nneed it, don't need it!"
   },
   {
     "No": "73",
-    "me": "Hehehe! A Thai girl's skirt~! I want to smell it and\nmasturbate~! Let's take it off, take it off!"
+    "me": "Hehehe! A Thai girl's skirt~! I want to smell it\nand masturbate~! Let's take it off, take it off!"
   },
   {
     "No": "74",
-    "me": "Guhehe~! A shirt soaked with the scent of a Thai girl's\nbody~! I want to masturbate with it~! Let's take it off,\ntake it off!"
+    "me": "Guhehe~! A shirt soaked with the scent of a Thai\ngirl's body~! I want to masturbate with it~! Let's\ntake it off, take it off!"
   },
   {
     "No": "75",
-    "me": "Uhihi~! A Thai schoolgirl's loafer~! I want to rub my dick\nall over it and ejaculate~!"
+    "me": "Uhihi~! A Thai schoolgirl's loafer~! I want to rub\nmy dick all over it and ejaculate~!"
   },
   {
     "No": "76",
-    "me": "Gulp! It's a sock, man~ A schoolgirl's sock~! I want to put\nit on my dick!"
+    "me": "Gulp! It's a sock, man~ A schoolgirl's sock~! I\nwant to put it on my dick!"
   },
   {
     "No": "77",
-    "me": "Kukuku! A Thai girl's bra~! It's making me drool like\ncrazy~! Haa haa haa!"
+    "me": "Kukuku! A Thai girl's bra~! It's making me drool\nlike crazy~! Haa haa haa!"
   },
   {
     "No": "78",
-    "me": "Haa haa! My bikini that was hiding your nipples~! Once I\ncollect it, I'm definitely going to masturbate with it~!"
+    "me": "Haa haa! My bikini that was hiding your nipples~!\nOnce I collect it, I'm definitely going to\nmasturbate with it~!"
   },
   {
     "No": "79",
-    "me": "Let's take off the panties a bit, shall we~? This old man\nwants to smell them~! Haa haa!"
+    "me": "Let's take off the panties a bit, shall we~? This\nold man wants to smell them~! Haa haa!"
   },
   {
     "No": "80",
-    "me": "Let's take off the panties a bit, shall we~? This old man\nwants to smell them~! Haa haa! Cough cough! Ugh, it smells\nlike shit~!"
+    "me": "Let's take off the panties a bit, shall we~? This\nold man wants to smell them~! Haa haa! Cough\ncough! Ugh, it smells like shit~!"
   },
   {
     "No": "81",
-    "me": "Muhihi~! A Thai girl's diaper, man~! I want to bury my face\nin it and smell it all over~! Take it off, take it off!"
+    "me": "Muhihi~! A Thai girl's diaper, man~! I want to\nbury my face in it and smell it all over~! Take it\noff, take it off!"
   },
   {
     "No": "82",
-    "me": "Muhihi~! A Thai girl's diaper, man~! I want to bury my face\nin it and smell it, but the shit is just too much~!\nBuhahahaha!"
+    "me": "Muhihi~! A Thai girl's diaper, man~! I want to\nbury my face in it and smell it, but the shit is\njust too much~! Buhahahaha!"
   },
   {
     "No": "83",
-    "me": "Muhihi~! A Thai girl's diaper, man~! And it's already soaked\nwith pee~! I want to bury my face in it and smell it all\nover~! Take it off, take it off!"
+    "me": "Muhihi~! A Thai girl's diaper, man~! And it's\nalready soaked with pee~! I want to bury my face\nin it and smell it all over~! Take it off, take it\noff!"
   },
   {
     "No": "84",
-    "me": "Muhihi~! A Thai girl's diaper, man~! I want to bury my face\nin it and smell it, but the shit is just too much~!\nBuhahahaha!"
+    "me": "Muhihi~! A Thai girl's diaper, man~! I want to\nbury my face in it and smell it, but the shit is\njust too much~! Buhahahaha!"
   },
   { "No": "85", "me": "Uhihi~! Oh, give me back my briefs, please~!" },
   { "No": "86", "me": "Uhihi~! Oh, give me back my towel, please~!" },
   {
     "No": "87",
-    "me": "Uhihi~! Oh, the bikini panties I lent you~! I'm going to use\nthem for masturbation, so please give them back~!"
+    "me": "Uhihi~! Oh, the bikini panties I lent you~! I'm\ngoing to use them for masturbation, so please give\nthem back~!"
   },
   { "No": "88", "me": "" },
   { "No": "89", "me": "Atchan, turn around!" },
   { "No": "90", "me": "Atchan, it's the front!" },
   {
     "No": "91",
-    "me": "Um... I-I'm scared... The janitor... He's staring and\ngrinning at me..."
+    "me": "Um... I-I'm scared... The janitor... He's staring\nand grinning at me..."
   },
   {
     "No": "92",
-    "me": "Uhah!?... Ah~! I-I was just thinking! My apologies... (Phew~\nThat was close, my dick's all hard now...)"
+    "me": "Uhah!?... Ah~! I-I was just thinking! My\napologies... (Phew~ That was close, my dick's all\nhard now...)"
   },
   { "No": "93", "me": "" },
   {
     "No": "94",
-    "me": "Now~ Atchara-san! The test of courage starts now~! Are you\nready~!? (My dick is always ready!!)"
+    "me": "Now~ Atchara-san! The test of courage starts now~!\nAre you ready~!? (My dick is always ready!!)"
   },
   { "No": "95", "me": "Yes!... I... will do my best~!" },
   {
     "No": "96",
-    "me": "Ah! Before that... Would you like something to drink!?\nYou'll surely get thirsty from the fear~! (Hehehehehe!)"
+    "me": "Ah! Before that... Would you like something to\ndrink!? You'll surely get thirsty from the fear~!\n(Hehehehehe!)"
   },
-  { "No": "97", "me": "Are you thirsty~? Will you drink? Drink what? Hmm..." },
+  { "No": "97", "me": "Are you thirsty~? Will you drink? Drink what?\nHmm..." },
   { "No": "98", "me": "I will drink this." },
   { "No": "99", "me": "Ohoho! Yes, yes! Here you go~! Chug it down~!" },
   { "No": "100", "me": "Alright, alright~ I drank it~!" },
   {
     "No": "101",
-    "me": "Gulp! Then, please go all the way to the back of the\ncemetery! That's the goal!"
+    "me": "Gulp! Then, please go all the way to the back of\nthe cemetery! That's the goal!"
   },
   { "No": "102", "me": "Okay, got it. I'm off." },
   { "No": "103", "me": "" },
   { "No": "104", "me": "" },
   {
     "No": "105",
-    "me": "Ohoho~! Stains of poop and pee! That's awful~! My dick is\nabout to burst!"
+    "me": "Ohoho~! Stains of poop and pee! That's awful~! My\ndick is about to burst!"
   },
   {
     "No": "106",
-    "me": "Hehehe~! I want to sniff the smell of panties smeared with\npoop! Cough! My dick is so hard!"
+    "me": "Hehehe~! I want to sniff the smell of panties\nsmeared with poop! Cough! My dick is so hard!"
   },
   {
     "No": "107",
-    "me": "Oh my! Oh dear~ The dick! The foreskin-covered dick is\ncompletely visible! Gyahahahaha!"
+    "me": "Oh my! Oh dear~ The dick! The foreskin-covered\ndick is completely visible! Gyahahahaha!"
   },
   {
     "No": "108",
-    "me": "Ehehehe! I wonder if the cute dick's smell got stuck to my\nbriefs?"
+    "me": "Ehehehe! I wonder if the cute dick's smell got\nstuck to my briefs?"
   },
   {
     "No": "109",
-    "me": "Ehehehe! I wonder if the cute dick's smell got stuck to my\ntowel?"
+    "me": "Ehehehe! I wonder if the cute dick's smell got\nstuck to my towel?"
   },
   {
     "No": "110",
-    "me": "Buhahaha~! A Thai ladyboy's smooth dick~! I want to lick and\nsuck it all over!"
+    "me": "Buhahaha~! A Thai ladyboy's smooth dick~! I want\nto lick and suck it all over!"
   },
   {
     "No": "111",
-    "me": "Buhahaha~! A Thai ladyboy's smooth dick~! I want to lick and\nsuck it all over! I'll even lick the ass hole!"
+    "me": "Buhahaha~! A Thai ladyboy's smooth dick~! I want\nto lick and suck it all over! I'll even lick the\nass hole!"
   },
   {
     "No": "112",
-    "me": "Buhuhuhu~! Anan-chan's anal... It was the best! I, the old\nman, came a lot! Let's play dress-up and have fun~!"
+    "me": "Buhuhuhu~! Anan-chan's anal... It was the best! I,\nthe old man, came a lot! Let's play dress-up and\nhave fun~!"
   },
   {
     "No": "113",
-    "me": "Buhuhuhu~! Anan-chan's blowjob... It was the best! I, the\nold man, came a lot! Let's play dress-up and have fun~!"
+    "me": "Buhuhuhu~! Anan-chan's blowjob... It was the best!\nI, the old man, came a lot! Let's play dress-up\nand have fun~!"
   },
   {
     "No": "114",
-    "me": "Buhuhuhu~! Anan-chan's diaper... It was the best! I, the old\nman, came a lot! Let's play dress-up and have fun~!"
+    "me": "Buhuhuhu~! Anan-chan's diaper... It was the best!\nI, the old man, came a lot! Let's play dress-up\nand have fun~!"
   },
   {
     "No": "115",
-    "me": "Buhuhuhu~! Anan-chan's panties... It was the best! I, the\nold man, came a lot! Let's play dress-up and have fun~!"
+    "me": "Buhuhuhu~! Anan-chan's panties... It was the best!\nI, the old man, came a lot! Let's play dress-up\nand have fun~!"
   },
   {
     "No": "116",
-    "me": "Hehehe! A Thai newhalf's skirt~! I want to sniff it and\nmasturbate! Let's take it off, take it off!"
+    "me": "Hehehe! A Thai newhalf's skirt~! I want to sniff\nit and masturbate! Let's take it off, take it off!"
   },
-  { "No": "117", "me": "Kukuku! A boy's bra~! It's so exciting! Haa haa haa!" },
+  {
+    "No": "117",
+    "me": "Kukuku! A boy's bra~! It's so exciting! Haa haa\nhaa!"
+  },
   {
     "No": "118",
-    "me": "Muhi~! A newhalf's diaper, yeah~! I want to bury my face in\nit and sniff all over! Take it off, take it off!"
+    "me": "Muhi~! A newhalf's diaper, yeah~! I want to bury\nmy face in it and sniff all over! Take it off,\ntake it off!"
   },
   {
     "No": "119",
-    "me": "Muhi~! A newhalf's diaper, yeah~! I want to bury my face in\nit and sniff all over, but the poop smells so bad! Buhahaha!"
+    "me": "Muhi~! A newhalf's diaper, yeah~! I want to bury\nmy face in it and sniff all over, but the poop\nsmells so bad! Buhahaha!"
   },
   {
     "No": "120",
-    "me": "Muhi~! A newhalf's diaper, yeah~! And it's already soaked\nwith pee~! I want to bury my face in it and sniff all over!\nTake it off, take it off!"
+    "me": "Muhi~! A newhalf's diaper, yeah~! And it's already\nsoaked with pee~! I want to bury my face in it and\nsniff all over! Take it off, take it off!"
   },
   { "No": "121", "me": "Anan, show me that ass!" },
   {
     "No": "122",
-    "me": "Um... Is there something on my face...? The janitor is\nstaring..."
+    "me": "Um... Is there something on my face...? The\njanitor is staring..."
   },
   { "No": "123", "me": "" },
   { "No": "124", "me": "" },
   { "No": "125", "me": "" },
   {
     "No": "126",
-    "me": "Ugh!... I... I can smell it~ Ah, it's a bit stinky..."
+    "me": "Ugh!... I... I can smell it~ Ah, it's a bit\nstinky..."
   },
   {
     "No": "127",
-    "me": "Sniff sniff, ah! Indeed... It's poop! There might be some\nlying around here! Please be careful not to step on it!"
+    "me": "Sniff sniff, ah! Indeed... It's poop! There might\nbe some lying around here! Please be careful not\nto step on it!"
   },
   { "No": "128", "me": "Yes..." },
   {
     "No": "129",
-    "me": "It's a bit scary... Someone else fainted... I wonder if I'll\nbe okay?..."
+    "me": "It's a bit scary... Someone else fainted... I\nwonder if I'll be okay?..."
   },
   {
     "No": "130",
-    "me": "Oh my~? Atchara-san! What's wrong~? Are you worried about\nthe test of courage?... It's okay, it's okay~ Right~?"
+    "me": "Oh my~? Atchara-san! What's wrong~? Are you\nworried about the test of courage?... It's okay,\nit's okay~ Right~?"
   },
   {
     "No": "131",
-    "me": "The person who fainted was just feeling unwell... Atchara-\nsan, you'll be fine! I guarantee it! (I guarantee you'll get\npregnant! Gyahahaha!)"
+    "me": "The person who fainted was just feeling unwell...\nAtchara- san, you'll be fine! I guarantee it! (I\nguarantee you'll get pregnant! Gyahahaha!)"
   },
   { "No": "132", "me": "Yes..." },
   {
     "No": "133",
-    "me": "It's kind of exciting... Is it just because I'm alone... I'm\nnervous..."
+    "me": "It's kind of exciting... Is it just because I'm\nalone... I'm nervous..."
   },
   {
     "No": "134",
-    "me": "Being alone with a Thai schoolgirl in this deserted\ncemetery... Just kidding~... Gulp! It is indeed exciting~\nHehehe!"
+    "me": "Being alone with a Thai schoolgirl in this\ndeserted cemetery... Just kidding~... Gulp! It is\nindeed exciting~ Hehehe!"
   },
   {
     "No": "135",
-    "me": "(Kuu~ If possible, I'd love to push her down and have my way\nwith her~!) (But that goes against my rape aesthetics...)"
+    "me": "(Kuu~ If possible, I'd love to push her down and\nhave my way with her~!) (But that goes against my\nrape aesthetics...)"
   },
   {
     "No": "136",
-    "me": "Mr. Janitor... You're drooling... (Ugh, this person might be\nscarier...)"
+    "me": "Mr. Janitor... You're drooling... (Ugh, this\nperson might be scarier...)"
   },
   {
     "No": "137",
@@ -451,305 +454,314 @@
   },
   {
     "No": "138",
-    "me": "Ehehe~ Are you nervous~!? It's okay~... (Are you getting\nsweaty from the nervousness~?) (Hehe! You look delicious!)"
+    "me": "Ehehe~ Are you nervous~!? It's okay~... (Are you\ngetting sweaty from the nervousness~?) (Hehe! You\nlook delicious!)"
   },
   {
     "No": "139",
-    "me": "Just a little longer! Gulp! Please wait until it's your\nturn~ (Haa haa! Ah~ My dick is rock hard!)"
+    "me": "Just a little longer! Gulp! Please wait until it's\nyour turn~ (Haa haa! Ah~ My dick is rock hard!)"
   },
   { "No": "140", "me": "" },
   { "No": "141", "me": "" },
   { "No": "142", "me": "" },
   {
     "No": "143",
-    "me": "Japanese test of courage, it's the best~ Haa~ My heart is\nstill racing..."
+    "me": "Japanese test of courage, it's the best~ Haa~ My\nheart is still racing..."
   },
-  { "No": "144", "me": "So, so~? Let this old man hear that racing heart..." },
+  { "No": "144", "me": "So, so~? Let this old man hear that racing\nheart..." },
   {
     "No": "145",
-    "me": "Japanese test of courage, it's super the best~ Haa~ My heart\nis still racing... And I'm still sweaty... Phew~"
+    "me": "Japanese test of courage, it's super the best~\nHaa~ My heart is still racing... And I'm still\nsweaty... Phew~"
   },
   {
     "No": "146",
-    "me": "So, so~? Let this old man hear that racing heart... I'll\neven wipe off your sweat~ Gulp!"
+    "me": "So, so~? Let this old man hear that racing\nheart... I'll even wipe off your sweat~ Gulp!"
   },
   { "No": "147", "me": "Ugh..." },
   {
     "No": "148",
-    "me": "Just kidding... Ahaha~ (Damn, I might get sued for sexual\nharassment by the academy...)"
+    "me": "Just kidding... Ahaha~ (Damn, I might get sued for\nsexual harassment by the academy...)"
   },
   {
     "No": "149",
-    "me": "Things I'm not good at~... Hmm~ Olga-san was talking about\nhow her grandmother was very strict..."
+    "me": "Things I'm not good at~... Hmm~ Olga-san was\ntalking about how her grandmother was very\nstrict..."
   },
-  { "No": "150", "me": "Things I'm not good at... Ah~ I really don't know..." },
+  {
+    "No": "150",
+    "me": "Things I'm not good at... Ah~ I really don't\nknow..."
+  },
   { "No": "151", "me": "Things I'm not good at?... Hmph!..." },
   { "No": "152", "me": "Ah, ah~... (Hehe, it seems like I'm disliked~)" },
   { "No": "153", "me": "" },
   {
     "No": "154",
-    "me": "Ah~ I'm so bored~ Janitor-san... Can't I go home yet~?..."
+    "me": "Ah~ I'm so bored~ Janitor-san... Can't I go home\nyet~?..."
   },
   {
     "No": "155",
-    "me": "Hah... Is it still not over? It's so unpleasant, I want to\ngo home..."
+    "me": "Hah... Is it still not over? It's so unpleasant, I\nwant to go home..."
   },
   {
     "No": "156",
-    "me": "Ah, ah~ Sorry~ Just a little longer! Okay!... (Kuu~ I'm\nbeing ignored, I wanted to put it in~!)"
+    "me": "Ah, ah~ Sorry~ Just a little longer! Okay!...\n(Kuu~ I'm being ignored, I wanted to put it in~!)"
   },
   { "No": "157", "me": "" },
   {
     "No": "158",
-    "me": "Ahe~ How about it~? The condition of your crotch... Excuse\nme! That~ disgusting spot, is it okay? Gufufu~!"
+    "me": "Ahe~ How about it~? The condition of your\ncrotch... Excuse me! That~ disgusting spot, is it\nokay? Gufufu~!"
   },
   { "No": "159", "me": "No, no..." },
   { "No": "160", "me": "He, hehe, I'm fine!... Kufuu~..." },
   {
     "No": "161",
-    "me": "(Nuhah~ That's disgusting~! The stench is sticking to the\ncrotch, isn't it~ Uhehe~!)"
+    "me": "(Nuhah~ That's disgusting~! The stench is sticking\nto the crotch, isn't it~ Uhehe~!)"
   },
   {
     "No": "162",
-    "me": "No~ There's a savory smell lingering around here~ Could it\nbe here~!? Sniff sniff!... Ohoo~!"
+    "me": "No~ There's a savory smell lingering around here~\nCould it be here~!? Sniff sniff!... Ohoo~!"
   },
   {
     "No": "163",
-    "me": "No~ Your skirt is a bit yellowed, isn't it~ That's where the\nsmell is coming from, right!? Sniff sniff!... Ohoo~!"
+    "me": "No~ Your skirt is a bit yellowed, isn't it~ That's\nwhere the smell is coming from, right!? Sniff\nsniff!... Ohoo~!"
   },
   {
     "No": "164",
-    "me": "No~ Your skirt has turned brown, hasn't it~ That's where the\nsmell is coming from, right!? Sniff sniff!... Ohoo~! That's\nawful~!"
+    "me": "No~ Your skirt has turned brown, hasn't it~ That's\nwhere the smell is coming from, right!? Sniff\nsniff!... Ohoo~! That's awful~!"
   },
   { "No": "165", "me": "You, you, pervert--!!" },
   {
     "No": "166",
-    "me": "Ah! Sorry, sorry~ I said you had a change of clothes,\nright~? Are you going to change~?"
+    "me": "Ah! Sorry, sorry~ I said you had a change of\nclothes, right~? Are you going to change~?"
   },
   { "No": "167", "me": "Yes, yes..." },
   { "No": "168", "me": "" },
   {
     "No": "169",
-    "me": "It was scary~ I don't want to do it anymore! I'm done with\nthis~"
+    "me": "It was scary~ I don't want to do it anymore! I'm\ndone with this~"
   },
   {
     "No": "170",
-    "me": "I can't do it anymore... Japanese people are brave to do\nsuch scary things, it's surprising."
+    "me": "I can't do it anymore... Japanese people are brave\nto do such scary things, it's surprising."
   },
   {
     "No": "171",
-    "me": "Ahaha, it's all right now~ Don't worry~ (Uhihi, it seems it\nwas quite scary~...)"
+    "me": "Ahaha, it's all right now~ Don't worry~ (Uhihi, it\nseems it was quite scary~...)"
   },
   {
     "No": "172",
-    "me": "!?... I, it hurts... Huh!? My stomach hurts!?... Fuu..."
+    "me": "!?... I, it hurts... Huh!? My stomach hurts!?...\nFuu..."
   },
   {
     "No": "173",
-    "me": "(Oh my~? It seems the suppository is slowly dissolving)\n(That's right~! Ahah~! I'm looking forward to it~!)"
+    "me": "(Oh my~? It seems the suppository is slowly\ndissolving) (That's right~! Ahah~! I'm looking\nforward to it~!)"
   },
   { "No": "174", "me": "Things I'm not good at?... I, I don't know..." },
   { "No": "175", "me": "Is, is that so..." },
   { "No": "176", "me": "" },
   {
     "No": "177",
-    "me": "Ukuu~... I don't want to~... (My, my crotch... it's wet and\ndisgusting...)"
+    "me": "Ukuu~... I don't want to~... (My, my crotch...\nit's wet and disgusting...)"
   },
   {
     "No": "178",
-    "me": "Ukuu~... I don't want to~... (My, my crotch... it's squishy\nwith poop and it's disgusting...)"
+    "me": "Ukuu~... I don't want to~... (My, my crotch...\nit's squishy with poop and it's disgusting...)"
   },
   {
     "No": "179",
-    "me": "Hii~... Haa~ It's disgusting... (Yikes! I want to wash down\nthere quickly!) (Being covered in pee like this~...)"
+    "me": "Hii~... Haa~ It's disgusting... (Yikes! I want to\nwash down there quickly!) (Being covered in pee\nlike this~...)"
   },
   {
     "No": "180",
-    "me": "Hii~... Haa~ It's disgusting... (Yikes! I want to wash down\nthere quickly!...) (Poop is going to get into my vagina~...)"
+    "me": "Hii~... Haa~ It's disgusting... (Yikes! I want to\nwash down there quickly!...) (Poop is going to get\ninto my vagina~...)"
   },
   { "No": "181", "me": "Atchara-san! Are you okay now~?..." },
   { "No": "182", "me": "" },
   {
     "No": "183",
-    "me": "(Why is it wet up to there with pee... I wonder why...)"
+    "me": "(Why is it wet up to there with pee... I wonder\nwhy...)"
   },
-  { "No": "184", "me": "(Does pee get on the shirt too!?... It's strange...)" },
+  {
+    "No": "184",
+    "me": "(Does pee get on the shirt too!?... It's\nstrange...)"
+  },
   { "No": "185", "me": "" },
   { "No": "186", "me": "Here, this is it~ Briefs! Mine! Change into them!" },
   { "No": "187", "me": "Here, this is it~ Towel! Mine! Use it to cover up!" },
   {
     "No": "188",
-    "me": "Here, this is it~ Bikini panties! Mine! Change into them!"
+    "me": "Here, this is it~ Bikini panties! Mine! Change\ninto them!"
   },
   { "No": "189", "me": "Hii!?..." },
   {
     "No": "190",
-    "me": "Just do it, it's clean! No problem! Come on, come on!\nChange!"
+    "me": "Just do it, it's clean! No problem! Come on, come\non! Change!"
   },
   { "No": "191", "me": "Yes, yes..." },
   { "No": "192", "me": "Ahaha~..." },
   {
     "No": "193",
-    "me": "Yes! You've changed! Now you can relax! (Uhehe~! She put on\nmy panties~! I can't stand it!)"
+    "me": "Yes! You've changed! Now you can relax! (Uhehe~!\nShe put on my panties~! I can't stand it!)"
   },
   {
     "No": "194",
-    "me": "Yes! You've changed! Now you can relax! (Uhehe~! She covered\nup with my towel~! I can't stand it!)"
+    "me": "Yes! You've changed! Now you can relax! (Uhehe~!\nShe covered up with my towel~! I can't stand it!)"
   },
   {
     "No": "195",
-    "me": "Yes! You've changed! Now you can relax! (Uhehe~! She put on\nmy collection~!) (I'll masturbate to this later! I can't\nstand it!)"
+    "me": "Yes! You've changed! Now you can relax! (Uhehe~!\nShe put on my collection~!) (I'll masturbate to\nthis later! I can't stand it!)"
   },
   {
     "No": "196",
-    "me": "Here, this is it~ Running shirt! Mine! Change into it!"
+    "me": "Here, this is it~ Running shirt! Mine! Change into\nit!"
   },
   { "No": "197", "me": "Here, this is it~ Apron! Mine! Change into it!" },
   {
     "No": "198",
-    "me": "Here, this is it~ School swimsuit! Mine! Change into it!"
+    "me": "Here, this is it~ School swimsuit! Mine! Change\ninto it!"
   },
   {
     "No": "199",
-    "me": "Here, this is it~ Cardboard box! Get creative and cover up\nthe important parts!"
+    "me": "Here, this is it~ Cardboard box! Get creative and\ncover up the important parts!"
   },
   {
     "No": "200",
-    "me": "Here, this is it~ Newspaper! Get creative and cover up the\nimportant parts!"
+    "me": "Here, this is it~ Newspaper! Get creative and\ncover up the important parts!"
   },
-  { "No": "201", "me": "Here, this is it~ Bikini! It's mine! Change into it!" },
+  {
+    "No": "201",
+    "me": "Here, this is it~ Bikini! It's mine! Change into\nit!"
+  },
   {
     "No": "202",
-    "me": "Yes! You've changed! Now you can relax! (Uhehe~! She's\nwearing my shirt~!) (Her nipples are showing, I can't stand\nit! Haa haa!)"
+    "me": "Yes! You've changed! Now you can relax! (Uhehe~!\nShe's wearing my shirt~!) (Her nipples are\nshowing, I can't stand it! Haa haa!)"
   },
   {
     "No": "203",
-    "me": "Yes! You've changed! Now you can relax! (Uhehe~! She's\nwearing the erotic apron~!) (Her nipples are showing, I\ncan't stand it! Haa haa!)"
+    "me": "Yes! You've changed! Now you can relax! (Uhehe~!\nShe's wearing the erotic apron~!) (Her nipples are\nshowing, I can't stand it! Haa haa!)"
   },
   {
     "No": "204",
-    "me": "Yes! You've changed! Now you can relax! (Uhehe~! She's\nwearing my school swimsuit~!) (I'll masturbate to this\nlater! I can't stand it!)"
+    "me": "Yes! You've changed! Now you can relax! (Uhehe~!\nShe's wearing my school swimsuit~!) (I'll\nmasturbate to this later! I can't stand it!)"
   },
   {
     "No": "205",
-    "me": "Yes! You've changed! Now you can relax! (Uhehe~! She's\nhiding behind a tiny cardboard box~!) (Her nipples are\nshowing, I can't stand it! Haa haa!)"
+    "me": "Yes! You've changed! Now you can relax! (Uhehe~!\nShe's hiding behind a tiny cardboard box~!) (Her\nnipples are showing, I can't stand it! Haa haa!)"
   },
   {
     "No": "206",
-    "me": "Yes! You've changed! Now you can relax! (Uhehe~! She's\nhiding behind the newspaper~!) (It's almost visible but not\nquite~! I can't stand it! Haa haa!)"
+    "me": "Yes! You've changed! Now you can relax! (Uhehe~!\nShe's hiding behind the newspaper~!) (It's almost\nvisible but not quite~! I can't stand it! Haa\nhaa!)"
   },
   { "No": "207", "me": "" },
   {
     "No": "208",
-    "me": "Th-This brief in the middle, it's yellowed... Is it\ndirty?..."
+    "me": "Th-This brief in the middle, it's yellowed... Is\nit dirty?..."
   },
   {
     "No": "209",
-    "me": "Th-This towel smells kind of funny... Is it dirty?..."
+    "me": "Th-This towel smells kind of funny... Is it\ndirty?..."
   },
-  { "No": "210", "me": "Th-This bikini is too small... It's embarrassing..." },
+  { "No": "210", "me": "Th-This bikini is too small... It's\nembarrassing..." },
   {
     "No": "211",
-    "me": "No, no, it's clean~ It's okay after cleaning~ Don't worry,\ndon't worry~"
+    "me": "No, no, it's clean~ It's okay after cleaning~\nDon't worry, don't worry~"
   },
   {
     "No": "212",
-    "me": "That's not true at all~! Everything is covered~! Don't\nworry, don't worry~"
+    "me": "That's not true at all~! Everything is covered~!\nDon't worry, don't worry~"
   },
   {
     "No": "213",
-    "me": "If it really bothers you that much~... Would you like to\nwear your dirty, filthy uniform again~!?"
+    "me": "If it really bothers you that much~... Would you\nlike to wear your dirty, filthy uniform again~!?"
   },
   { "No": "214", "me": "Eek!..." },
   { "No": "215", "me": "What should I do..." },
   {
     "No": "216",
-    "me": "Th-This shirt is all stretched out... It's embarrassing..."
+    "me": "Th-This shirt is all stretched out... It's\nembarrassing..."
   },
   { "No": "217", "me": "Th-This apron is too small... It's embarrassing..." },
   {
     "No": "218",
-    "me": "Th-This school swimsuit smells weird... Is it dirty?..."
+    "me": "Th-This school swimsuit smells weird... Is it\ndirty?..."
   },
   {
     "No": "219",
-    "me": "Th-This cardboard box is too small... It's embarrassing..."
+    "me": "Th-This cardboard box is too small... It's\nembarrassing..."
   },
   {
     "No": "220",
-    "me": "Th-This newspaper alone is too small... It's embarrassing..."
+    "me": "Th-This newspaper alone is too small... It's\nembarrassing..."
   },
   {
     "No": "221",
-    "me": "(Hmm~... What's that at the crotch...) (It seems to be\nbulging... Gulp!)"
+    "me": "(Hmm~... What's that at the crotch...) (It seems\nto be bulging... Gulp!)"
   },
   {
     "No": "222",
-    "me": "Aghh... S-Something soft is pressing against my crotch..."
+    "me": "Aghh... S-Something soft is pressing against my\ncrotch..."
   },
   { "No": "223", "me": "Aghh... It's c-cold..." },
   { "No": "224", "me": "" },
   {
     "No": "225",
-    "me": "Gulp!... (Hmm~ What's that... The pussy... seems to have a\nplump mons pubis...) (I want to get closer and look...\nbut...)"
+    "me": "Gulp!... (Hmm~ What's that... The pussy... seems\nto have a plump mons pubis...) (I want to get\ncloser and look... but...)"
   },
   {
     "No": "226",
-    "me": "Gulp!... (Uhi~ The bikini is biting into the ball sack~!)\n(He's cleverly hiding his cock~!)"
+    "me": "Gulp!... (Uhi~ The bikini is biting into the ball\nsack~!) (He's cleverly hiding his cock~!)"
   },
   {
     "No": "227",
-    "me": "Gulp!... (Hmm~ What's that... Something seems to be visible\nfrom the crotch...) (I want to get closer and look...\nbut...)"
+    "me": "Gulp!... (Hmm~ What's that... Something seems to\nbe visible from the crotch...) (I want to get\ncloser and look... but...)"
   },
   {
     "No": "228",
-    "me": "Gulp!... (Uhi~ The tip of the foreskin-covered cock is\npeeking out!) (This could lead to public indecency~!) (Kuu~\nI want to expose my cock too~!!)"
+    "me": "Gulp!... (Uhi~ The tip of the foreskin-covered\ncock is peeking out!) (This could lead to public\nindecency~!) (Kuu~ I want to expose my cock\ntoo~!!)"
   },
   {
     "No": "229",
-    "me": "Gulp!... (The shirt hides the lower abdomen, with a\nforeskin-covered cock...) (Damn~ It's arousing!...)"
+    "me": "Gulp!... (The shirt hides the lower abdomen, with\na foreskin-covered cock...) (Damn~ It's\narousing!...)"
   },
   {
     "No": "230",
-    "me": "Gulp!... (The apron barely hides the foreskin-covered\ncock...) (Damn~ It's arousing!...)"
+    "me": "Gulp!... (The apron barely hides the foreskin-\ncovered cock...) (Damn~ It's arousing!...)"
   },
   {
     "No": "231",
-    "me": "Gulp!... (The foreskin-covered cock is neatly hidden by the\nschool swimsuit...) (Damn~ It's arousing!...)"
+    "me": "Gulp!... (The foreskin-covered cock is neatly\nhidden by the school swimsuit...) (Damn~ It's\narousing!...)"
   },
   {
     "No": "232",
-    "me": "Gulp!... (The briefs hide the lower abdomen, with a\nforeskin-covered cock...) (Damn~ It's arousing!...)"
+    "me": "Gulp!... (The briefs hide the lower abdomen, with\na foreskin-covered cock...) (Damn~ It's\narousing!...)"
   },
   {
     "No": "233",
-    "me": "Gulp!... (The towel hides the lower abdomen, with a\nforeskin-covered cock...) (Damn~ It's arousing!...)"
+    "me": "Gulp!... (The towel hides the lower abdomen, with\na foreskin-covered cock...) (Damn~ It's\narousing!...)"
   },
   { "No": "234", "me": "" },
   {
     "No": "235",
-    "me": "Gulp! Breasts are completely visible~! Cock is also\ncompletely visible~! Yay~!"
+    "me": "Gulp! Breasts are completely visible~! Cock is\nalso completely visible~! Yay~!"
   },
   {
     "No": "236",
-    "me": "Buhaha~! Thai ladyboys~! I want to lick and suck them all\nover~!"
+    "me": "Buhaha~! Thai ladyboys~! I want to lick and suck\nthem all over~!"
   },
   { "No": "237", "me": "" },
   {
     "No": "238",
-    "me": "Maybe I'll just take off my panties~! Show my bare cock to\nthe old man! Haa haa!"
+    "me": "Maybe I'll just take off my panties~! Show my bare\ncock to the old man! Haa haa!"
   },
   {
     "No": "239",
-    "me": "Maybe I'll just take off my panties~! Show my bare cock to\nthe old man! Haa haa! Cough cough! Ugh, it smells like\nshit~!"
+    "me": "Maybe I'll just take off my panties~! Show my bare\ncock to the old man! Haa haa! Cough cough! Ugh, it\nsmells like shit~!"
   },
   {
     "No": "240",
-    "me": "Gulp! You look good in a school swimsuit! Take it off a bit,\nshow me your cock! Haa haa!"
+    "me": "Gulp! You look good in a school swimsuit! Take it\noff a bit, show me your cock! Haa haa!"
   },
   {
     "No": "241",
-    "me": "Uhi~! Atchara's cock in a tight bikini panty~! I'll use it\nfor masturbation, so give it back!"
+    "me": "Uhi~! Atchara's cock in a tight bikini panty~!\nI'll use it for masturbation, so give it back!"
   },
   { "No": "242", "me": "" },
   { "No": "243", "me": "" },

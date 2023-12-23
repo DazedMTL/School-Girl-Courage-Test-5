@@ -60,7 +60,10 @@
   { "No": "58", "me": "Hehyaah!? Seriously!? Stop, nooo!" },
   { "No": "59", "me": "No, wait, wait a sec!!" },
   { "No": "60", "me": "Hehaaaaahhhhhhhhhhhhh!!!" },
-  { "No": "61", "me": "Hm? A doorbell? No way, are you going to press it?..." },
+  {
+    "No": "61",
+    "me": "Hm? A doorbell? No way, are you going to press\nit?..."
+  },
   { "No": "62", "me": "Aaah! Aaaaaahhhhh!!!" },
   { "No": "63", "me": "Whoa! Damn, it's just a kid..." },
   { "No": "64", "me": "Ah ah aaaaaahhhhhhhhh!!!" },
@@ -100,7 +103,10 @@
   { "No": "98", "me": "Eh!? Wait, wait a minute! That seems bad..." },
   { "No": "99", "me": "No, that's bad, is it bad!?" },
   { "No": "100", "me": "Yabaaaai!!" },
-  { "No": "101", "me": "Ugh... Is, is someone there... No, this seems bad..." },
+  {
+    "No": "101",
+    "me": "Ugh... Is, is someone there... No, this seems\nbad..."
+  },
   { "No": "102", "me": "Haaa!? S, someone help..." },
   { "No": "103", "me": "Hah!? Aaaaaah!!!" },
   { "No": "104", "me": "Noooooo!!!" },
@@ -119,7 +125,7 @@
   { "No": "117", "me": "Aah! Aaaaah! This is bad, this is bad..." },
   {
     "No": "118",
-    "me": "This is bad, this is bad, this might be really bad~!!"
+    "me": "This is bad, this is bad, this might be really\nbad~!!"
   },
   { "No": "119", "me": "Hik!... W, what is this!?..." },
   { "No": "120", "me": "Aaaaah!!! Hiiii!!" },
@@ -156,7 +162,7 @@
   { "No": "151", "me": "No, no, nooooo!!" },
   {
     "No": "152",
-    "me": "I don't want this, I don't! I'm telling you nooooo!!!"
+    "me": "I don't want this, I don't! I'm telling you\nnooooo!!!"
   },
   { "No": "153", "me": "The chime? I have a bad feeling..." },
   { "No": "154", "me": "Fugyaaah! Just as I thought!..." },
@@ -174,7 +180,7 @@
   { "No": "166", "me": "Oh, oh, a ghost!?..." },
   {
     "No": "167",
-    "me": "Ugh, I don't want this... Someone's standing there..."
+    "me": "Ugh, I don't want this... Someone's standing\nthere..."
   },
   { "No": "168", "me": "Nooooooo!!!..." },
   { "No": "169", "me": "Eeeh!? Eeeeh!?..." },
@@ -252,7 +258,7 @@
   { "No": "241", "me": "No way~!? Eeeh!?" },
   {
     "No": "242",
-    "me": "Oh no way... What are you doing in a place like this..."
+    "me": "Oh no way... What are you doing in a place like\nthis..."
   },
   { "No": "243", "me": "Oh oh... Oh!?..." },
   { "No": "244", "me": "No way... Heh!? I can't believe it..." },

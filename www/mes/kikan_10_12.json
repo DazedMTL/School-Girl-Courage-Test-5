@@ -6,7 +6,7 @@
   { "No": "4", "me": "………………" },
   {
     "No": "5",
-    "me": "My God!... Sh, shisshin, did you faint!? Ko, kowai nee!"
+    "me": "My God!... Sh, shisshin, did you faint!? Ko, kowai\nnee!"
   },
   { "No": "6", "me": "Sh, shinjirarenai nee~! This is scary..." },
   { "No": "7", "me": "O, oo, diapers..." },
@@ -18,13 +18,16 @@
   { "No": "13", "me": "Eh!? A, are... diapers?..." },
   { "No": "14", "me": "Eh!? A, are... pee?..." },
   { "No": "15", "me": "" },
-  { "No": "16", "me": "Hee! Suggee~ Even Americans faint in shock, huh~ Hee!" },
+  {
+    "No": "16",
+    "me": "Hee! Suggee~ Even Americans faint in shock, huh~\nHee!"
+  },
   { "No": "17", "me": "Maa, taihen... Mo, Molly-san was it!?..." },
   { "No": "18", "me": "Oh my... (Yikes, it seems like the butt is wet...)" },
   { "No": "19", "me": "Oh my... (Yikes, it smells a bit like poop...)" },
   {
     "No": "20",
-    "me": "Yabaa... Janitor-san, isn't this going to become an\ninternational issue!?"
+    "me": "Yabaa... Janitor-san, isn't this going to become\nan international issue!?"
   },
   { "No": "21", "me": "So, sonna... hehe..." },
   { "No": "22", "me": "Usoo, Janitor-san, did you make them faint?..." },
@@ -34,63 +37,63 @@
   { "No": "26", "me": "Ha... it smells like poop..." },
   {
     "No": "27",
-    "me": "Uwaa~ Scary~ Even Russian kids are scared of scary things..."
+    "me": "Uwaa~ Scary~ Even Russian kids are scared of scary\nthings..."
   },
   { "No": "28", "me": "Ma, Maji!? They're leaking, aren't they!?... Gulp!" },
-  { "No": "29", "me": "Ka, kawaisou~! To make a child from Russia faint..." },
+  { "No": "29", "me": "Ka, kawaisou~! To make a child from Russia\nfaint..." },
   {
     "No": "30",
-    "me": "Uwaa, hidee~... To faint like that... Na, it's kinda\npitiful..."
+    "me": "Uwaa, hidee~... To faint like that... Na, it's\nkinda pitiful..."
   },
   { "No": "31", "me": "Oh!? Hey hey... (They peed themselves...)" },
   { "No": "32", "me": "(Hey hey, I can see the diaper...)" },
   { "No": "33", "me": "Ah! (Yikes... They came wearing a diaper...)" },
   {
     "No": "34",
-    "me": "Oi oi!? Isn't that a diaper!? It's a diaper!! Ukyakyakya!\nAnd it's kinda wet!! This is a masterpiece!!"
+    "me": "Oi oi!? Isn't that a diaper!? It's a diaper!!\nUkyakyakya! And it's kinda wet!! This is a\nmasterpiece!!"
   },
   {
     "No": "35",
-    "me": "Oi oi!? Isn't that a diaper!? It's a diaper!! Ukyakyakya!\nAnd there's a stain!! This is a masterpiece!!"
+    "me": "Oi oi!? Isn't that a diaper!? It's a diaper!!\nUkyakyakya! And there's a stain!! This is a\nmasterpiece!!"
   },
   {
     "No": "36",
-    "me": "Oi oi! The panties are totally visible! Ukyakya! That's\nlame!!"
+    "me": "Oi oi! The panties are totally visible! Ukyakya!\nThat's lame!!"
   },
   {
     "No": "37",
-    "me": "Oi oi! What's that!? That lump, it's poop, right! Poop!\nThat's amazing, right!? Ukyakyakya! Ke, it's a masterpiece!!"
+    "me": "Oi oi! What's that!? That lump, it's poop, right!\nPoop! That's amazing, right!? Ukyakyakya! Ke, it's\na masterpiece!!"
   },
   {
     "No": "38",
-    "me": "Yo, janitor old man! There's malice in that way of holding,\nright?"
+    "me": "Yo, janitor old man! There's malice in that way of\nholding, right?"
   },
   {
     "No": "39",
-    "me": "Eh!? Eeh!? That's absolutely not the case~! I was hugged and\nthen fainted~! Iya~ I'm troubled~... Gulp!"
+    "me": "Eh!? Eeh!? That's absolutely not the case~! I was\nhugged and then fainted~! Iya~ I'm troubled~...\nGulp!"
   },
   { "No": "40", "me": "Oh no!... Really fainted!?... Are, are you okay..." },
   { "No": "41", "me": "Maa! O, diapers... (They're completely visible...)" },
   {
     "No": "42",
-    "me": "Maa! O, diapers... (They're completely visible...) (And they\nseem dirty...)"
+    "me": "Maa! O, diapers... (They're completely visible...)\n(And they seem dirty...)"
   },
   { "No": "43", "me": "Maa! Sh, underwear!... Hey janitor-san!" },
   {
     "No": "44",
-    "me": "Do, there's nothing to be done~ I'll bring them into the\nhall as they are~!"
+    "me": "Do, there's nothing to be done~ I'll bring them\ninto the hall as they are~!"
   },
   { "No": "45", "me": "Pitiful~ Being carried like that..." },
   { "No": "46", "me": "Iya~ It's not on purpose~ Uhe~" },
   { "No": "47", "me": "(O, they were wearing a diaper, that child...)" },
   {
     "No": "48",
-    "me": "(O, they were wearing a diaper, that child...) (And it's\nused!?...)"
+    "me": "(O, they were wearing a diaper, that child...)\n(And it's used!?...)"
   },
   { "No": "49", "me": "(The panties are soaked... Incontinence!...)" },
   {
     "No": "50",
-    "me": "(What's with those panties!? What happened to them!?...)\n(They're definitely... those, right!?...)"
+    "me": "(What's with those panties!? What happened to\nthem!?...) (They're definitely... those,\nright!?...)"
   },
   {
     "No": "51",
@@ -102,85 +105,85 @@
   },
   {
     "No": "53",
-    "me": "Hehe, can't be helped! Pa, panties are completely\nvisible!... Pfft... (This child wet themselves!...)"
+    "me": "Hehe, can't be helped! Pa, panties are completely\nvisible!... Pfft... (This child wet\nthemselves!...)"
   },
   {
     "No": "54",
-    "me": "Hehe, can't be helped! Pa, panties are completely\nvisible!... Pfft... (What's that, poop!? So much of it!?\nBwahaha!...)"
+    "me": "Hehe, can't be helped! Pa, panties are completely\nvisible!... Pfft... (What's that, poop!? So much\nof it!? Bwahaha!...)"
   },
   {
     "No": "55",
-    "me": "That's terrible!... Making them wear such an embarrassing\noutfit..."
+    "me": "That's terrible!... Making them wear such an\nembarrassing outfit..."
   },
   {
     "No": "56",
-    "me": "No, it's a misunderstanding~... (Ehehe~ Tease me, tease me~)"
+    "me": "No, it's a misunderstanding~... (Ehehe~ Tease me,\ntease me~)"
   },
   {
     "No": "57",
-    "me": "(The diapers are stained... They've wet themselves...)"
+    "me": "(The diapers are stained... They've wet\nthemselves...)"
   },
   {
     "No": "58",
-    "me": "(The panties are stained... They've wet themselves...)"
+    "me": "(The panties are stained... They've wet\nthemselves...)"
   },
   {
     "No": "59",
-    "me": "(Pa, panties are... Eh!? What's that!?... Eh!?...) (I can't\nhelp but do a double-take...)"
+    "me": "(Pa, panties are... Eh!? What's that!?... Eh!?...)\n(I can't help but do a double-take...)"
   },
   { "No": "60", "me": "" },
   { "No": "61", "me": "" },
   {
     "No": "62",
-    "me": "I'm back~ Phew~ Haah~ That was heavy. (Damn, my back feels\nlike it's going to give out...)"
+    "me": "I'm back~ Phew~ Haah~ That was heavy. (Damn, my\nback feels like it's going to give out...)"
   },
   { "No": "63", "me": "Molly-san fainted, you know~ Uhehe" },
   {
     "No": "64",
-    "me": "Ahehe~ I've brought back an American schoolgirl! Let's take\nher to the hall and have fun, shall we~!? Haah haah!"
+    "me": "Ahehe~ I've brought back an American schoolgirl!\nLet's take her to the hall and have fun, shall\nwe~!? Haah haah!"
   },
   {
     "No": "65",
-    "me": "No way~ I never expected this person to faint~ I'm surprised\ntoo~! (Muhahaha~!)"
+    "me": "No way~ I never expected this person to faint~ I'm\nsurprised too~! (Muhahaha~!)"
   },
   {
     "No": "66",
-    "me": "Cough cough! Cough ooooh!!! Excuse me~ They've defecated, so\nthe smell is quite strong~ Ha! This is a secret, okay~\nUhihihi!!"
+    "me": "Cough cough! Cough ooooh!!! Excuse me~ They've\ndefecated, so the smell is quite strong~ Ha! This\nis a secret, okay~ Uhihihi!!"
   },
-  { "No": "67", "me": "I'll go let them rest in the hall for a bit~ Fufu~n" },
+  { "No": "67", "me": "I'll go let them rest in the hall for a bit~\nFufu~n" },
   { "No": "68", "me": "I'm back! Olga-san fainted! What a shock! Guhehe~!" },
   {
     "No": "69",
-    "me": "Hihhihihi! Olga-chaaan, let's rest together in the hall!\nJust the two of us with Uncle! Haah haah haah!"
+    "me": "Hihhihihi! Olga-chaaan, let's rest together in the\nhall! Just the two of us with Uncle! Haah haah\nhaah!"
   },
   {
     "No": "70",
-    "me": "No way~ Why did they faint... Over such a childish trick...\nMuhii~"
+    "me": "No way~ Why did they faint... Over such a childish\ntrick... Muhii~"
   },
   {
     "No": "71",
-    "me": "Ah! Dirty... I got poop on my hand~ Ha! I've said too much!\nThis is a secret, okay~ Uhihihi!!"
+    "me": "Ah! Dirty... I got poop on my hand~ Ha! I've said\ntoo much! This is a secret, okay~ Uhihihi!!"
   },
   { "No": "72", "me": "I'll go lay Olga-san down in the hall~ Uhehe~!" },
   {
     "No": "73",
-    "me": "Everyone, I've returned! A little mishap... I mean, Atchara-\nsan has fainted... What a pity~ Guhehe~!"
+    "me": "Everyone, I've returned! A little mishap... I\nmean, Atchara- san has fainted... What a pity~\nGuhehe~!"
   },
   {
     "No": "74",
-    "me": "Anan-chaaan, your punishment for deceiving Uncle continues~\nHaah haah! Let's enjoy ourselves in the hall~!"
+    "me": "Anan-chaaan, your punishment for deceiving Uncle\ncontinues~ Haah haah! Let's enjoy ourselves in the\nhall~!"
   },
   {
     "No": "75",
-    "me": "They fainted so suddenly, wow~ Maybe they were feeling\nunwell..."
+    "me": "They fainted so suddenly, wow~ Maybe they were\nfeeling unwell..."
   },
   {
     "No": "76",
-    "me": "Phew~ The smell of poop... Ha! Did you hear that!? Please\npretend you didn't hear anything..."
+    "me": "Phew~ The smell of poop... Ha! Did you hear that!?\nPlease pretend you didn't hear anything..."
   },
   {
     "No": "77",
-    "me": "Well then, I'll go let Atchara-san, not Anan, rest in the\nhall~"
+    "me": "Well then, I'll go let Atchara-san, not Anan, rest\nin the hall~"
   },
   {
     "No": "78",
@@ -188,32 +191,35 @@
   },
   {
     "No": "79",
-    "me": "Kuhee~ Just the two of us, just the two of us~! You know\nwhat that means, right!? Let's go to the hall! Haah haah\nhaah!"
+    "me": "Kuhee~ Just the two of us, just the two of us~!\nYou know what that means, right!? Let's go to the\nhall! Haah haah haah!"
   },
   { "No": "80", "me": "" },
   {
     "No": "81",
-    "me": "Hm!? Yo, janitor~... You're getting hard, aren't you~?\nKekekeke! What's with this guy! Just a perverted old man!"
+    "me": "Hm!? Yo, janitor~... You're getting hard, aren't\nyou~? Kekekeke! What's with this guy! Just a\nperverted old man!"
   },
   { "No": "82", "me": "Ha!... Yo, janitor-san... So lewd..." },
   {
     "No": "83",
-    "me": "Hm? Oh, come on... Old man... You're getting a boner, aren't\nyou!?"
+    "me": "Hm? Oh, come on... Old man... You're getting a\nboner, aren't you!?"
   },
   { "No": "84", "me": "Eh!? Wait a minute... Janitor-san..." },
   { "No": "85", "me": "Yes?..." },
   { "No": "86", "me": "That!..." },
-  { "No": "87", "me": "Ha!... No... I don't want to... My eyes went there..." },
+  {
+    "No": "87",
+    "me": "Ha!... No... I don't want to... My eyes went\nthere..."
+  },
   { "No": "88", "me": "Eh? What is it!?..." },
   { "No": "89", "me": "Eh? Ha!... No!... Janitor-san, you're perverted!" },
   {
     "No": "90",
-    "me": "Hm? Haah!? Eh!? No way!? Janitor-san... You're standing up~\nFufu!"
+    "me": "Hm? Haah!? Eh!? No way!? Janitor-san... You're\nstanding up~ Fufu!"
   },
   { "No": "91", "me": "Ah!... No!... Yo, janitor-san, you're a pervert!" },
   {
     "No": "92",
-    "me": "Oh~ You're getting hard! Janitor, you're getting hard,\naren't you!?"
+    "me": "Oh~ You're getting hard! Janitor, you're getting\nhard, aren't you!?"
   },
   { "No": "93", "me": "Oh~ That's naughty..." },
   { "No": "94", "me": "Disgusting!!" },
@@ -224,34 +230,34 @@
   { "No": "99", "me": "Janitor-san, you're disgusting!" },
   {
     "No": "100",
-    "me": "Huh!? No, that's not it! What nonsense... Misunderstanding,\nmisunderstanding! (Oh no~ Did she notice my erection~!?\nEhehehe!!)"
+    "me": "Huh!? No, that's not it! What nonsense...\nMisunderstanding, misunderstanding! (Oh no~ Did\nshe notice my erection~!? Ehehehe!!)"
   },
   {
     "No": "101",
-    "me": "(Can't help it~ The smell of her hair is just so... nice...)"
+    "me": "(Can't help it~ The smell of her hair is just\nso... nice...)"
   },
   {
     "No": "102",
-    "me": "(And then, this body pressing against me! Her soft breasts\nare) (pushing against me~! An erection is only natural!\nEhehehehehe!!)"
+    "me": "(And then, this body pressing against me! Her soft\nbreasts are) (pushing against me~! An erection is\nonly natural! Ehehehehehe!!)"
   },
   {
     "No": "103",
-    "me": "Anyway, I'll take you to the temple! (Ah~ My crotch is being\nwatched~!) (I, I feel so good~! Look, look, look more~!)"
+    "me": "Anyway, I'll take you to the temple! (Ah~ My\ncrotch is being watched~!) (I, I feel so good~!\nLook, look, look more~!)"
   },
   { "No": "104", "me": "" },
   { "No": "105", "me": "" },
   { "No": "106", "me": "" },
   {
     "No": "107",
-    "me": "Ah~ You're kind of suspicious... Your eyes have the look of\na pervert... Can I trust you? Are you sure it's okay!?..."
+    "me": "Ah~ You're kind of suspicious... Your eyes have\nthe look of a pervert... Can I trust you? Are you\nsure it's okay!?..."
   },
   {
     "No": "108",
-    "me": "Um~ Are you helping~?... Ah, that's suspicious... (This\nperson seems to be smiling somehow...)"
+    "me": "Um~ Are you helping~?... Ah, that's suspicious...\n(This person seems to be smiling somehow...)"
   },
   {
     "No": "109",
-    "me": "I will help... It's not safe with just men... That... makes\nme anxious..."
+    "me": "I will help... It's not safe with just men...\nThat... makes me anxious..."
   },
   { "No": "110", "me": "" },
   { "No": "111", "me": "" },
@@ -263,76 +269,76 @@
   { "No": "117", "me": "Guh!... It stinks~!!" },
   {
     "No": "118",
-    "me": "Buhet! Buhee~! Let it out, let it out~! Bed poop, yeah~!!"
+    "me": "Buhet! Buhee~! Let it out, let it out~! Bed poop,\nyeah~!!"
   },
   {
     "No": "119",
-    "me": "Yay! Yay! The American schoolgirl started pooping herself,\nwow~!"
+    "me": "Yay! Yay! The American schoolgirl started pooping\nherself, wow~!"
   },
   {
     "No": "120",
-    "me": "Yay! Yay! She started pooping herself in her cloth diaper,\nwow~!"
+    "me": "Yay! Yay! She started pooping herself in her cloth\ndiaper, wow~!"
   },
   {
     "No": "121",
-    "me": "Guhoho~! It's tight, but poop is twisting out of the\nswimsuit~! It's so dirty~!!"
+    "me": "Guhoho~! It's tight, but poop is twisting out of\nthe swimsuit~! It's so dirty~!!"
   },
   {
     "No": "122",
-    "me": "Guhoho~! Poop is coming out in heaps, regardless of the\nbikini~! It's so dirty~!!"
+    "me": "Guhoho~! Poop is coming out in heaps, regardless\nof the bikini~! It's so dirty~!!"
   },
   {
     "No": "123",
-    "me": "Guhoho~! It's so dirty~!! Poop overflowing from the\npanties~! Amazing~!!"
+    "me": "Guhoho~! It's so dirty~!! Poop overflowing from\nthe panties~! Amazing~!!"
   },
   {
     "No": "124",
-    "me": "Guhoho~! It's so dirty~!! Poop overflowing from the cloth\ndiaper~! Amazing~!!"
+    "me": "Guhoho~! It's so dirty~!! Poop overflowing from\nthe cloth diaper~! Amazing~!!"
   },
   { "No": "125", "me": "Oh no~! My briefs are filled with poop!!" },
   {
     "No": "126",
-    "me": "Guhoho~! There it is, there it is~! A mountain of foreign\npoop~!! It's dirty, so dirty~! Gyahahaha!!"
+    "me": "Guhoho~! There it is, there it is~! A mountain of\nforeign poop~!! It's dirty, so dirty~! Gyahahaha!!"
   },
   {
     "No": "127",
-    "me": "Buhahaha~! Molly-chan~! There's a pee stain on your skirt!\nGuhee~ How embarrassing~!"
+    "me": "Buhahaha~! Molly-chan~! There's a pee stain on\nyour skirt! Guhee~ How embarrassing~!"
   },
   {
     "No": "128",
-    "me": "Buhahaha~! Molly-chan~! On top of the poop stain, there's a\npee stain on your skirt! Guhee~ How embarrassing~!"
+    "me": "Buhahaha~! Molly-chan~! On top of the poop stain,\nthere's a pee stain on your skirt! Guhee~ How\nembarrassing~!"
   },
   {
     "No": "129",
-    "me": "Buhahaha~! Molly-chan~! I heard the sound of pee, shaa-\nshaa~! There's a faint stain! Guhee~ How embarrassing~!"
+    "me": "Buhahaha~! Molly-chan~! I heard the sound of pee,\nshaa- shaa~! There's a faint stain! Guhee~ How\nembarrassing~!"
   },
   {
     "No": "130",
-    "me": "Buhahaha~! Molly-chan~! I heard the sound of pee, shaa-\nshaa~! There's a faint stain of poop and pee! Guhee~ How\nembarrassing~!"
+    "me": "Buhahaha~! Molly-chan~! I heard the sound of pee,\nshaa- shaa~! There's a faint stain of poop and\npee! Guhee~ How embarrassing~!"
   },
   {
     "No": "131",
-    "me": "Buhahaha~! Molly-chan~! Does it come out when you're in a\nswimsuit~? Pee~! You shouldn't do that~! Uhehe uhee~!"
+    "me": "Buhahaha~! Molly-chan~! Does it come out when\nyou're in a swimsuit~? Pee~! You shouldn't do\nthat~! Uhehe uhee~!"
   },
   {
     "No": "132",
-    "me": "Gyahahaha! Molly-chan~! You peed yourself, didn't you~! How\nold are you again~!? Buheh buhee~!!"
+    "me": "Gyahahaha! Molly-chan~! You peed yourself, didn't\nyou~! How old are you again~!? Buheh buhee~!!"
   },
   {
     "No": "133",
-    "me": "Gyahahaha! Molly-chan~! You even peed yourself, didn't you~!\nHow old are you again~!? Buheh buhee~!!"
+    "me": "Gyahahaha! Molly-chan~! You even peed yourself,\ndidn't you~! How old are you again~!? Buheh\nbuhee~!!"
   },
   {
     "No": "134",
-    "me": "Gyahahaha! Molly-chan~! You peed in my briefs, didn't you~!\nHow old are you again~!? Buheh buhee~!!"
+    "me": "Gyahahaha! Molly-chan~! You peed in my briefs,\ndidn't you~! How old are you again~!? Buheh\nbuhee~!!"
   },
   {
     "No": "135",
-    "me": "Gyahahaha! Molly-chan~! You even added more pee to my\nbriefs, didn't you~! How old are you again~!? Buheh buhee~!!"
+    "me": "Gyahahaha! Molly-chan~! You even added more pee to\nmy briefs, didn't you~! How old are you again~!?\nBuheh buhee~!!"
   },
   {
     "No": "136",
-    "me": "Oh dear! Oh dear~! Trouble, Molly-chan! There's a big map on\nthe futon! Ahihi ahihihi!!!"
+    "me": "Oh dear! Oh dear~! Trouble, Molly-chan! There's a\nbig map on the futon! Ahihi ahihihi!!!"
   },
   { "No": "137", "me": "" },
   { "No": "138", "me": "" },
@@ -344,51 +350,51 @@
   { "No": "144", "me": "Goh! A Russian girl's fart~!" },
   {
     "No": "145",
-    "me": "Yeah, twist it out thoroughly~! Go for it! Go for it~!\nUhehehehe!!"
+    "me": "Yeah, twist it out thoroughly~! Go for it! Go for\nit~! Uhehehehe!!"
   },
   {
     "No": "146",
-    "me": "Nho~! It's born! It's born, Olga-chan!! The gender is~ Poop!\nGyahahaha!!"
+    "me": "Nho~! It's born! It's born, Olga-chan!! The gender\nis~ Poop! Gyahahaha!!"
   },
   {
     "No": "147",
-    "me": "Nho~! You did it, Olga-chan!! Even if you secretly do it in\nyour diaper, I can tell~! Gyahahaha!!"
+    "me": "Nho~! You did it, Olga-chan!! Even if you secretly\ndo it in your diaper, I can tell~! Gyahahaha!!"
   },
   {
     "No": "148",
-    "me": "Nho~! It's splattered~! You did it, Olga-chan!! Covered in\npoop~! Gyahahaha!!"
+    "me": "Nho~! It's splattered~! You did it, Olga-chan!!\nCovered in poop~! Gyahahaha!!"
   },
   {
     "No": "149",
-    "me": "Nho~! It's off~! The bikini came off with the force of the\npoop~! Gyahahaha!!"
+    "me": "Nho~! It's off~! The bikini came off with the\nforce of the poop~! Gyahahaha!!"
   },
   {
     "No": "150",
-    "me": "Nho~! It overflowed~! Those panties couldn't contain it,\nhuh~! Gyahahaha!!"
+    "me": "Nho~! It overflowed~! Those panties couldn't\ncontain it, huh~! Gyahahaha!!"
   },
   {
     "No": "151",
-    "me": "Nho~! Dirty, so dirty~!! Poop flew out from the diaper~!\nGyahahaha!!"
+    "me": "Nho~! Dirty, so dirty~!! Poop flew out from the\ndiaper~! Gyahahaha!!"
   },
   {
     "No": "152",
-    "me": "Nho~! Oh, poop came out of my briefs~! Dirty, so dirty~!!\nGyahahaha!!"
+    "me": "Nho~! Oh, poop came out of my briefs~! Dirty, so\ndirty~!! Gyahahaha!!"
   },
   {
     "No": "153",
-    "me": "Nho~! Is this a Russian girl's fresh poop~! Dirty, so\ndirty~!! Gyahahaha!!"
+    "me": "Nho~! Is this a Russian girl's fresh poop~! Dirty,\nso dirty~!! Gyahahaha!!"
   },
   {
     "No": "154",
-    "me": "Kuha~! You peed a lot, didn't you~!! Did you drink too\nmuch~!? Uhehehe~!!"
+    "me": "Kuha~! You peed a lot, didn't you~!! Did you drink\ntoo much~!? Uhehehe~!!"
   },
   {
     "No": "155",
-    "me": "Kuha~! You also peed a ton, didn't you~!! Did you drink too\nmuch~!? Uhehehe~!!"
+    "me": "Kuha~! You also peed a ton, didn't you~!! Did you\ndrink too much~!? Uhehehe~!!"
   },
   {
     "No": "156",
-    "me": "Kuha~! You peed in the diaper, didn't you!? Uncle heard it~!\nUhehehe~!"
+    "me": "Kuha~! You peed in the diaper, didn't you!? Uncle\nheard it~! Uhehehe~!"
   },
   {
     "No": "157",
@@ -396,31 +402,31 @@
   },
   {
     "No": "158",
-    "me": "Kuha~! You leaked pee in your swimsuit~! Hehehe! I got to\nsee something nice~!"
+    "me": "Kuha~! You leaked pee in your swimsuit~! Hehehe! I\ngot to see something nice~!"
   },
   {
     "No": "159",
-    "me": "Kuha~! You leaked pee in your bikini~! Hehehe! I got to see\nsomething nice~!"
+    "me": "Kuha~! You leaked pee in your bikini~! Hehehe! I\ngot to see something nice~!"
   },
   {
     "No": "160",
-    "me": "Kuha~! Did you pee!? You should have peed after taking off\nyour panties~! Buhahaha!!"
+    "me": "Kuha~! Did you pee!? You should have peed after\ntaking off your panties~! Buhahaha!!"
   },
   {
     "No": "161",
-    "me": "Kuha~! Did you pee as well!? Your panties are all wet~! If\nyou don't need them, Uncle will take them~! Buhahaha!!"
+    "me": "Kuha~! Did you pee as well!? Your panties are all\nwet~! If you don't need them, Uncle will take\nthem~! Buhahaha!!"
   },
   {
     "No": "162",
-    "me": "Kuha~! Did you pee!? Those are Uncle's briefs, you know~!...\nThank you~! Buhahaha!!"
+    "me": "Kuha~! Did you pee!? Those are Uncle's briefs, you\nknow~!... Thank you~! Buhahaha!!"
   },
   {
     "No": "163",
-    "me": "Kuha~! Did you even pee for me!? Those are Uncle's briefs,\nyou know~!... Thank you~! Buhahaha!!"
+    "me": "Kuha~! Did you even pee for me!? Those are Uncle's\nbriefs, you know~!... Thank you~! Buhahaha!!"
   },
   {
     "No": "164",
-    "me": "Ha!... The temple's futon!... It's all wet with Olga-chan's\npee~! Uhee~ I might be able to masturbate with this futon~!\nAhehehehe! Ahee~!!!"
+    "me": "Ha!... The temple's futon!... It's all wet with\nOlga-chan's pee~! Uhee~ I might be able to\nmasturbate with this futon~! Ahehehehe! Ahee~!!!"
   },
   { "No": "165", "me": "" },
   { "No": "166", "me": "" },
@@ -430,93 +436,93 @@
   { "No": "170", "me": "Uhihihi! Are you writhing in agony~!? Gulp!" },
   {
     "No": "171",
-    "me": "If your anus reaches its limit, poop will come out~! Haa\nhaa!"
+    "me": "If your anus reaches its limit, poop will come\nout~! Haa haa!"
   },
   { "No": "172", "me": "Buh! Gohogoho!..." },
   {
     "No": "173",
-    "me": "So, this is a fart from a schoolgirl who was actually a\nboy~! Gufufufu~!"
+    "me": "So, this is a fart from a schoolgirl who was\nactually a boy~! Gufufufu~!"
   },
   {
     "No": "174",
-    "me": "Uhohoho~! I did it~! A newhalf schoolgirl's poop overflowing\nfrom under her skirt~! Defecation~!!"
+    "me": "Uhohoho~! I did it~! A newhalf schoolgirl's poop\noverflowing from under her skirt~! Defecation~!!"
   },
   {
     "No": "175",
-    "me": "Uhohoho~! I did it~! A newhalf schoolgirl, defecating in a\ncloth diaper~!!"
+    "me": "Uhohoho~! I did it~! A newhalf schoolgirl,\ndefecating in a cloth diaper~!!"
   },
   {
     "No": "176",
-    "me": "Uhohoho~! I did it~! A newhalf schoolgirl defecating in a\nschool swimsuit~!!"
+    "me": "Uhohoho~! I did it~! A newhalf schoolgirl\ndefecating in a school swimsuit~!!"
   },
   {
     "No": "177",
-    "me": "Uhohoho~! I did it~! A newhalf schoolgirl defecating in a\nmicro bikini~!!"
+    "me": "Uhohoho~! I did it~! A newhalf schoolgirl\ndefecating in a micro bikini~!!"
   },
   {
     "No": "178",
-    "me": "Uhohoho~! I did it~! A newhalf schoolgirl's poop overflowing\nfrom her panties~! Defecation~!!"
+    "me": "Uhohoho~! I did it~! A newhalf schoolgirl's poop\noverflowing from her panties~! Defecation~!!"
   },
   {
     "No": "179",
-    "me": "Uhohoho~! I did it~! A newhalf schoolgirl's poop overflowing\nfrom a cloth diaper~! Defecation~!!"
+    "me": "Uhohoho~! I did it~! A newhalf schoolgirl's poop\noverflowing from a cloth diaper~! Defecation~!!"
   },
   {
     "No": "180",
-    "me": "Uhohoho~! I did it~! A newhalf schoolgirl defecating in my\nbriefs~!! Kuu~ Dirty~!!"
+    "me": "Uhohoho~! I did it~! A newhalf schoolgirl\ndefecating in my briefs~!! Kuu~ Dirty~!!"
   },
   {
     "No": "181",
-    "me": "Uhohoho~! I did it~! A newhalf schoolgirl defecating while\nasleep~!! Kuu~ Dirty~!!"
+    "me": "Uhohoho~! I did it~! A newhalf schoolgirl\ndefecating while asleep~!! Kuu~ Dirty~!!"
   },
   { "No": "182", "me": "Oh my!? Pee!" },
   {
     "No": "183",
-    "me": "Guhee~! Atchara-chan, you wet the bed in your sleep~! Ahi~!!"
+    "me": "Guhee~! Atchara-chan, you wet the bed in your\nsleep~! Ahi~!!"
   },
   {
     "No": "184",
-    "me": "Oh dear~ Such a sloppy uncircumcised cock~ Your uniform is\nsoaked with pee~! Gyahahaha!"
+    "me": "Oh dear~ Such a sloppy uncircumcised cock~ Your\nuniform is soaked with pee~! Gyahahaha!"
   },
   {
     "No": "185",
-    "me": "Oh dear~ Such a sloppy uncircumcised cock~ Your uniform is\ncovered in poop and pee~! Gyahahaha!"
+    "me": "Oh dear~ Such a sloppy uncircumcised cock~ Your\nuniform is covered in poop and pee~! Gyahahaha!"
   },
   {
     "No": "186",
-    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You peed in the\ndiaper, didn't you~! It smells~! Gyahahaha!"
+    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You\npeed in the diaper, didn't you~! It smells~!\nGyahahaha!"
   },
   {
     "No": "187",
-    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You even peed in\nthe diaper, didn't you~! It smells~! Gyahahaha!"
+    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You\neven peed in the diaper, didn't you~! It smells~!\nGyahahaha!"
   },
   {
     "No": "188",
-    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You've dirtied\nUncle's school swimsuit~ Gyahahaha!"
+    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You've\ndirtied Uncle's school swimsuit~ Gyahahaha!"
   },
   {
     "No": "189",
-    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You've dirtied\nUncle's micro bikini~ Gyahahaha!"
+    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You've\ndirtied Uncle's micro bikini~ Gyahahaha!"
   },
   {
     "No": "190",
-    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You let out lots\nof pee~! It's all wet~! Gyahahaha!"
+    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You let\nout lots of pee~! It's all wet~! Gyahahaha!"
   },
   {
     "No": "191",
-    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You even let out\nlots of pee~! It's all wet~! Gyahahaha!"
+    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You\neven let out lots of pee~! It's all wet~!\nGyahahaha!"
   },
   {
     "No": "192",
-    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You've dirtied\nUncle's briefs~ Gyahahaha!"
+    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You've\ndirtied Uncle's briefs~ Gyahahaha!"
   },
   {
     "No": "193",
-    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You even peed in\nUncle's briefs~! It's all wet~! Gyahahaha!"
+    "me": "Oh dear~ Such a sloppy uncircumcised cock~ You\neven peed in Uncle's briefs~! It's all wet~!\nGyahahaha!"
   },
   {
     "No": "194",
-    "me": "The futon too, got it~ Pee! Don't catch a cold~! Uhehehehe!!"
+    "me": "The futon too, got it~ Pee! Don't catch a cold~!\nUhehehehe!!"
   },
   { "No": "195", "me": "" },
   { "No": "196", "me": "" },
@@ -525,84 +531,84 @@
   { "No": "199", "me": "Nnaha, ahhah..." },
   {
     "No": "200",
-    "me": "Uhyohyo~ She's started writhing in severe stomach pain!"
+    "me": "Uhyohyo~ She's started writhing in severe stomach\npain!"
   },
   {
     "No": "201",
-    "me": "Seems like quite the constipation, but let's see how much\ncomes out... hehehe!"
+    "me": "Seems like quite the constipation, but let's see\nhow much comes out... hehehe!"
   },
   { "No": "202", "me": "Guha! Goboo!! Stinky!!" },
   {
     "No": "203",
-    "me": "Oi oi oi, that's the stinkiest fart ever~! Is this also one\nof the effects of the suppository!?"
+    "me": "Oi oi oi, that's the stinkiest fart ever~! Is this\nalso one of the effects of the suppository!?"
   },
   {
     "No": "204",
-    "me": "Incredible! What's with this abnormal amount!? Atchan, how\nmuch poop have you been holding in your belly~! Guhahaha!!"
+    "me": "Incredible! What's with this abnormal amount!?\nAtchan, how much poop have you been holding in\nyour belly~! Guhahaha!!"
   },
   {
     "No": "205",
-    "me": "Incredible! The skirt has bulged out weirdly~! Looks like\nAtchan has filled up the diaper quite a bit~! Guhahaha!!"
+    "me": "Incredible! The skirt has bulged out weirdly~!\nLooks like Atchan has filled up the diaper quite a\nbit~! Guhahaha!!"
   },
   {
     "No": "206",
-    "me": "Incredible! Poop is bursting out in large amounts from the\ngaps in the swimsuit~! Looks like Atchan has filled up the\ndiaper quite a bit~! Guhahaha!!"
+    "me": "Incredible! Poop is bursting out in large amounts\nfrom the gaps in the swimsuit~! Looks like Atchan\nhas filled up the diaper quite a bit~! Guhahaha!!"
   },
   {
     "No": "207",
-    "me": "Incredible! Poop is bursting out in large amounts from the\ngaps in the bikini~! Looks like Atchan has filled up the\ndiaper quite a bit~! Guhahaha!!"
+    "me": "Incredible! Poop is bursting out in large amounts\nfrom the gaps in the bikini~! Looks like Atchan\nhas filled up the diaper quite a bit~! Guhahaha!!"
   },
   {
     "No": "208",
-    "me": "Incredible! Looks like Atchan has filled up the diaper quite\na bit~! Guhahaha!!"
+    "me": "Incredible! Looks like Atchan has filled up the\ndiaper quite a bit~! Guhahaha!!"
   },
   {
     "No": "209",
-    "me": "Incredible! Atchan's poop is overflowing from my briefs~!\nGuhahaha!!"
+    "me": "Incredible! Atchan's poop is overflowing from my\nbriefs~! Guhahaha!!"
   },
   {
     "No": "210",
-    "me": "Incredible! To think you could poop so much while still\nasleep~ Guhahaha!!"
+    "me": "Incredible! To think you could poop so much while\nstill asleep~ Guhahaha!!"
   },
   {
     "No": "211",
-    "me": "Nuha! Atchan~! You've leaked pee! Since you weren't\nstraining, it just keeps coming out~! Buhahaha!!"
+    "me": "Nuha! Atchan~! You've leaked pee! Since you\nweren't straining, it just keeps coming out~!\nBuhahaha!!"
   },
   {
     "No": "212",
-    "me": "Nuha! Atchan~! You've even leaked pee! Since you weren't\nstraining, it just keeps coming out~! Buhahaha!!"
+    "me": "Nuha! Atchan~! You've even leaked pee! Since you\nweren't straining, it just keeps coming out~!\nBuhahaha!!"
   },
   {
     "No": "213",
-    "me": "Nuha! Atchan~! You've leaked pee into the diaper! I could\nhear it flowing~! Buhahaha!!"
+    "me": "Nuha! Atchan~! You've leaked pee into the diaper!\nI could hear it flowing~! Buhahaha!!"
   },
   {
     "No": "214",
-    "me": "Nuha! Atchan~! You've also peed in the diaper! I could hear\nit flowing~! Buhahaha!!"
+    "me": "Nuha! Atchan~! You've also peed in the diaper! I\ncould hear it flowing~! Buhahaha!!"
   },
   {
     "No": "215",
-    "me": "Nuha! Atchan~! You've soiled Uncle's favorite with pee!\nThank you~!! Buhahaha!!"
+    "me": "Nuha! Atchan~! You've soiled Uncle's favorite with\npee! Thank you~!! Buhahaha!!"
   },
   {
     "No": "216",
-    "me": "Nuha! Atchan, it's serious~! The panties are so soaked with\npee they could be wrung out~! Buhahaha!!"
+    "me": "Nuha! Atchan, it's serious~! The panties are so\nsoaked with pee they could be wrung out~!\nBuhahaha!!"
   },
   {
     "No": "217",
-    "me": "Nuha! Atchan, it's serious~! The panties are so soaked with\npee they could be wrung out! The poop is going to turn into\na sludge~! Buhahaha!!"
+    "me": "Nuha! Atchan, it's serious~! The panties are so\nsoaked with pee they could be wrung out! The poop\nis going to turn into a sludge~! Buhahaha!!"
   },
   {
     "No": "218",
-    "me": "Nuha! Atchan, what am I going to do with you~! Uncle was\nplanning to change into those briefs tonight~! I'll wear\nthem for now though~... Gulp! Buh! Buhahaha!!"
+    "me": "Nuha! Atchan, what am I going to do with you~!\nUncle was planning to change into those briefs\ntonight~! I'll wear them for now though~... Gulp!\nBuh! Buhahaha!!"
   },
   {
     "No": "219",
-    "me": "Nuha! Atchan, what am I going to do with you~! Uncle was\nplanning to change into those briefs tonight~! And there's\nso much poop too~... I'll wear them for now though!\nBuhahaha!!"
+    "me": "Nuha! Atchan, what am I going to do with you~!\nUncle was planning to change into those briefs\ntonight~! And there's so much poop too~... I'll\nwear them for now though! Buhahaha!!"
   },
   {
     "No": "220",
-    "me": "The futon too, it's incredible~! Atchan, you've peed too\nmuch~! Gyaha! Gyahahaha!!"
+    "me": "The futon too, it's incredible~! Atchan, you've\npeed too much~! Gyaha! Gyahahaha!!"
   },
   { "No": "221", "me": "" },
   { "No": "222", "me": "" },
