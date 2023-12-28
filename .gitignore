@@ -18,6 +18,9 @@
 !ENCG/*
 
 # Images
+!atchara_prof1.rpgmvp
+!atchara_prof2.rpgmvp
+!atchara_prof3.rpgmvp
 !bar_b1_1.rpgmvp
 !bar_b3_1.rpgmvp
 !bar_b3_2.rpgmvp
@@ -40,7 +43,13 @@
 !bar_b5_3.rpgmvp
 !Chara_detail_1.rpgmvp
 !Chara_detail_2.rpgmvp
+!Command_0.rpgmvp
+!Command_1.rpgmvp
+!Command_2.rpgmvp
+!Command_3.rpgmvp
+!Command_4.rpgmvp
 !Credit-opening.rpgmvp
+!hayasi_prof.rpgmvp
 !Is_b1_1.rpgmvp
 !item-s_b1_1.rpgmvp
 !item_01.rpgmvp
@@ -171,8 +180,13 @@
 !menu_skipsentaku.rpgmvp
 !menu_start.rpgmvp
 !menu_year.rpgmvp
-!Command_0.rpgmvp
-!Command_1.rpgmvp
-!Command_2.rpgmvp
-!Command_3.rpgmvp
-!Command_4.rpgmvp
+!mitukado_prof.rpgmvp
+!molly_prof.rpgmvp
+!momono_prof.rpgmvp
+!olga_prof.rpgmvp
+!sasaki_prof.rpgmvp
+!sato_prof.rpgmvp
+!suzuki_prof.rpgmvp
+!watanabe_prof.rpgmvp
+!yamada_prof.rpgmvp
+!yosiura_prof.rpgmvp
