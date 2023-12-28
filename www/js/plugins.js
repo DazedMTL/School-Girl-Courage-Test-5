@@ -1073,7 +1073,7 @@ var $plugins = [
       "Menu 57 Main Bind": "",
       "Menu 57 Actor Bind": "",
       "---Menu 58---": "",
-      "Menu 58 Name": "'シーン回想'",
+      "Menu 58 Name": "'Recollection'",
       "Menu 58 Symbol": "common event",
       "Menu 58 Show": "true",
       "Menu 58 Enabled": "true",
